@@ -91,8 +91,9 @@ Through hands-on implementation, I gained expertise in AWS networking, subnet se
 - ✅ Seamless cross-VPC communication via VPC Peering.
 - ✅ Well-structured AWS VPC architecture with public and private subnets.
 - ✅ Enhanced security with properly configured Security Groups and NACLs.
-- ✅ Hands-on experience in AWS networking and infrastructure management.
--![Website](./Output.png)
+- ✅ Hands-on experience in AWS networking and infrastructure management. 
+- ✅ Successful Connection to Private DB![Image1](./Assests/Successful%20Connection%20to%20Private%20DB.png)
+- ✅ Internet Connectivity of Private Database![Image2](./Assests/Internet%20Connectivity%20of%20Private%20Database.png)
 
 ## 📢 Let's Connect!
 - Stay updated on [LinkedIn](https://www.linkedin.com/in/-kartikjain/) for more DevOps projects and insights.
@@ -100,7 +101,5 @@ Through hands-on implementation, I gained expertise in AWS networking, subnet se
 - Let's collaborate and build scalable solutions together!
 
 ---
-### 🌟 If you found this project helpful, don’t forget to **star⭐** this repo! 🚀
-
-#AWS #VPC #CloudNetworking #Security #DevOps #NATGateway #VPCPeering #DatabaseSecurity #PrivateSubnet #Infrastructure
-
+### 🌟 If you found this project helpful, don’t forget to **star⭐** this repo!
+---
